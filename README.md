@@ -19,5 +19,3 @@ Sample input:
 
 Output:
 241 <Time taken by O(n) algorithm> <Time taken by O(log n) algorithm>
-
-
