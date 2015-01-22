@@ -2,8 +2,8 @@
 The repository contains few recursive algorithms that are taught in Implementation of Data Structures and Algorithms Class at University of Texas at Dallas.
 
 Contains the following Recursive Algorithms
-<li>
-1. Recursive Algorithm Fibonacci Numbers </li>
+
+1. Recursive Algorithm Fibonacci Numbers 
 2. Comparison of sorting algorithms
 3. Selection problem
 
